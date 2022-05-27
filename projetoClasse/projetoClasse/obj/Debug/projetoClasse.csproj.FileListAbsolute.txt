@@ -1,0 +1,8 @@
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\bin\Debug\projetoClasse.exe.config
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\bin\Debug\projetoClasse.exe
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\bin\Debug\projetoClasse.pdb
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\obj\Debug\projetoClasse.csproj.AssemblyReference.cache
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\obj\Debug\projetoClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\obj\Debug\projetoClasse.csproj.CoreCompileInputs.cache
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\obj\Debug\projetoClasse.exe
+C:\Users\2etimds\Documents\projetoClasse\projetoClasse\obj\Debug\projetoClasse.pdb
